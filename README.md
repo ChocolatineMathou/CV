@@ -1,4 +1,4 @@
-## Your Name
+## Mathilde Ferrand Coeurderoy
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -34,11 +34,30 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### ECS Paris (September 2015 to June 2017)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- SEO, UX Design, Social media management, Project Management
+- Provide online/offline communication advices, in team, to French brands
+- Blogging, in French
+
+#### Baruch College - City University of New York (February 2015 to May 2015)
+
+- Semester abroad
+- Brand Management, Customer Relationship Management, New Targets & Data Management, Web Marketing & Integrating Social Media, Personalization and Customization of the Offer
+
+#### ISEG Marketing & Communication Bordeaux (September 2012 to February 2015)
+
+- Marketing, Communication, Webdesign, Business English
+- Promotion of the school during student fairs
+
+#### Université de Bordeaux (September 2011 to December 2012)
+
+- First semester in Medical School
+
+#### Lycée François Magendie in Bordeaux (2011)
+
+- French Baccalauréat
+- Generak education with a concentration in Physics and Chemistry
 
 #### Any other qualifications
 
