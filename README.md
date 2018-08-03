@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (July 2018 to October 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -36,7 +36,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### ECS Paris (September 2015 to June 2017)
 
-- SEO, UX Design, Social media management, Project Management
+- Search Engine Optimization, UX Design, Social Media Management, Project Management
 - Provide online/offline communication advices, in team, to French brands
 - Blogging, in French
 
@@ -50,20 +50,32 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Marketing, Communication, Webdesign, Business English
 - Promotion of the school during student fairs
 
-#### Université de Bordeaux (September 2011 to December 2012)
+#### Université de Bordeaux (September 2011 to December 2011)
 
 - First semester in Medical School
+- Biology, Biochemistry, Chemistry, Physics, Epidemiology and Statistics, Sociology, Psychology
 
 #### Lycée François Magendie in Bordeaux (2011)
 
 - French Baccalauréat
-- Generak education with a concentration in Physics and Chemistry
+- General education with a concentration in Physics and Chemistry
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Ministère de l'Éducation Nationale** (April 2018 to June 2018)    
+*English Teacher*
+Due to the lack of English teacher in my area, I replace two of them until the end of the year. I taught to teenagers in professional and general high schools.
+**SNCF** (September 2015 to July 2017)    
+*Communication and Community Manager*  
+**Imagence** (May 2015 to August 2015)   
+*Junior Project Manager*
+**Cegedim** (May 2014 to August 2014)   
+*Your job title*
+
+## Hobbies and interests
+
+- Travel: I love discovering new places. For a holiday or just a weekend with a backpack in Europe, I'm always ready to go on an adventure. During my spare time, I'm still exploring London.
+- Photography: Wherever I go I always have my camera in my bag and share my photographs on [this tumblr](http://photomathou.tumblr.com/).
+- Cooking: Daughter of a French cook, I spend loads of time in my kitchen. During the past months, baking *chouquettes* has been my favorite activity to fight anxiety. I remain Queen of the Fondant Baulois.
