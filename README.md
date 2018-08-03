@@ -78,22 +78,22 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Ministère de l'Éducation Nationale** (April 2018 to June 2018)    
-*English Teacher*
+**Ministère de l'Éducation Nationale, Rectorat de Nantes** (April 2018 to June 2018)    
+*English Teacher*  
 I replaced two English teachers until the end of the year. I taught to teenagers in professional and general high schools. This experience gave me more self-confidence to interact with an audience.
 
 **SNCF** (September 2015 to July 2017)    
-*Communication and Community Manager*
-At SNCF (French Railway Company), I worked for the International Department and the Train Operations (Driver Management). It was my very first occasion to work for a worldwide company.
+*Communication and Community Manager*  
+At SNCF (French Railway Company), I worked for the International Department and the Train Operations (Driver Management) Department. It was my very first occasion to work for a worldwide company.
 - Promotion of the international culture within the company by highlighting international projects through an international website and internal social media. Besides writing articles, I analysed data from Google Analytics to understand my audience.
-- Coordination of the sponsorship agreement between the three companies (SNCF, SNCF Mobilités and SNCF Réseau) and HackPartners a consultancy based in London who run an annual hackathon called HackTrain. At this time, hackathons weren't very well known in the company and I became more interested with innovation and coding.
+- Coordination of the sponsorship agreement between the three companies (SNCF, SNCF Mobilités and SNCF Réseau) and HackPartners a consultancy based in London who runs an annual hackathon called HackTrain. At this time, hackathons weren't very well known in the company and I became more interested with innovation and coding.
 
 **Imagence** (May 2015 to August 2015)   
-*Junior Project Manager*
-Imagence is a small web agency in Paris Area. They mainly work for the health industry. I managed a digital project and worked closely with back-end and front-end developers. To answer to French legislation regarding the promotion of medicinal products on the Internet, we created a new authentication system and sold it to pharmaceutical companies.
+*Junior Project Manager*  
+Imagence is a small web agency based in the Greater Paris Area. They mainly work for the health industry. I managed a digital project and worked closely with back-end and front-end developers. To answer to French legislation regarding the promotion of medicinal products on the Internet, we created a new authentication system and sold it to pharmaceutical companies.
 
 ## Interests
 
 - **Travel:** I love discovering new places. For a holiday or just a weekend with a backpack in Europe, I'm always ready to go on an adventure. During my spare time, I'm still exploring London.
 - **Photography:** Wherever I go I always have my camera in my bag and share my photographs on [this tumblr](http://photomathou.tumblr.com/).
-- **Cooking:** Daughter of a French cook, I spend loads of time in my kitchen. During the past months, baking *chouquettes* has been my favorite activity to fight anxiety. I remain Queen of the Fondant Baulois.
+- **Cooking:** Daughter of a French cook, I spend loads of time in my kitchen. During the past months, baking *chouquettes* has been my favourite activity to fight anxiety. I remain Queen of the Fondant Baulois.
