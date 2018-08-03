@@ -78,16 +78,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Ministère de l'Éducation Nationale** (April 2018 to June 2018)    
 *English Teacher*
+
 Due to the lack of English teacher in my area, I replace two of them until the end of the year. I taught to teenagers in professional and general high schools.
 
 **SNCF** (September 2015 to July 2017)    
 *Communication and Community Manager*
+
 At SNCF (French Railway Company), I worked for the International Department and the Train Operations (Driver Management).
 - Promotion of the international culture within the company by highlighting international projects through an international website and internal social media. Besides writing articles, I analysed data from Google Analytics to understand my audience.
 - Coordination of the sponsorship agreement between the three companies (SNCF, SNCF Mobilités and SNCF Réseau) and HackPartners a consultancy based in London who run an annual hackathon called HackTrain.
 
 **Imagence** (May 2015 to August 2015)   
 *Junior Project Manager*
+
 Imagence is a small web agency in Paris Area. They mainly work for the health industry. I managed a digital project and worked closely with back-end and front-end developers. To answer to French legislation regarding the promotion of medicinal products on the Internet, we created a new authentication system and sold it to pharmaceutical companies.
 
 ## Hobbies and interests
