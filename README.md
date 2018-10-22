@@ -1,8 +1,18 @@
 ## Mathilde Ferrand Coeurderoy
 
-[Skills](https://github.com/mathildeferrandcoeurderoy/CV#skills) | [Education](https://github.com/mathildeferrandcoeurderoy/CV#education) | [Experience](https://github.com/mathildeferrandcoeurderoy/CV#experience) | [Interests](https://github.com/mathildeferrandcoeurderoy/CV#interests)
+[Recent projects](https://github.com/mathildeferrandcoeurderoy/CV#recent-projects) | [Skills](https://github.com/mathildeferrandcoeurderoy/CV#skills) | [Education](https://github.com/mathildeferrandcoeurderoy/CV#education) | [Experience](https://github.com/mathildeferrandcoeurderoy/CV#experience) | [Interests](https://github.com/mathildeferrandcoeurderoy/CV#interests)
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+
+## Recent projects
+
+| Project | Timeframe | Description | Technology | Testing framework |
+| --------| ----------| ------------| -----------| ------------------|
+| [Bank Tech Test](https://github.com/ChocolatineMathou/bank-tech-test) | 2 days | Makers Tech Test using TDD, OOP. | Ruby | RSpec |
+| [MakersBnB](https://github.com/ChocolatineMathou/MakersBnB) | 1 week | Our first team project, following XP principles and agile rituals. | Express, Javascript, SQLite, Sequelize | Jasmine, Zombie |
+| [Chitter](https://github.com/ChocolatineMathou/chitter-challenge) | 2 days | A Twitter clone built during a weekend. | Ruby, Sinatra, ActiveRecord, PostgreSQL | RSpec, Capybara |
+| [Acebook](https://github.com/ChocolatineMathou/acebook-PushMePullYou) | 2 weeks | Our second team project focusing on engineering. The full stack rails app is deployed on heroku [here](http://acebook-pushmepullyou.herokuapp.com/). | Ruby, Ruby on Rails, PostgreSQL | RSpec, Capybara |
+| [Injection Dependent](https://github.com/Alastair2D/injection_dependent) | 2 weeks | Our final project. This mobile app aims to help young diabetics dealing with injection sites. | React Native, Redux | Jest, Enzyme |
 
 ## Skills
 
@@ -34,8 +44,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- Languages: French (mother tongue), English, Spanish (elementary proficiency) and Italian (elementary proficiency)
-- Adobe Creative Suite (InDesign, Photoshop, Illustrator): During my previous experiences, I had to create posters, brochures and logos.
+- Languages: French (mother tongue), English (fluent), Spanish (elementary proficiency).
+- Adobe Softwares (InDesign, Photoshop, Illustrator): During my previous experiences, I had to create posters, brochures and logos. I also used Photoshop to imagine templates of websites.
 
 ## Education
 
@@ -47,8 +57,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Language: Ruby, Javascript
+- Frameworks: Rails, Express, React, React Native
+- Testing frameworks: RSpec, Capybara, Jasmine, Zombie, Jest, Enzyme
+- Linter: Rubocop, ESLint
+- Continuous Integration: Travis CI
 
 #### ECS Paris (September 2015 to June 2017)
 
@@ -94,6 +107,6 @@ Imagence is a small web agency based in the Greater Paris Area. They mainly work
 
 ## Interests
 
-- **Travel:** I love discovering new places. For a holiday or just a weekend with a backpack in Europe, I'm always ready to go on an adventure. During my spare time, I'm still exploring London.
+- **Travel:** I love discovering new places. For a holiday or just a weekend in Europe with only a backpack, I'm always ready to go on an adventure. During my spare time, I'm still exploring London.
 - **Photography:** Wherever I go I always have my camera in my bag and share my photographs on [this tumblr](http://photomathou.tumblr.com/).
 - **Cooking:** Daughter of a French cook, I spend loads of time in my kitchen. During the past months, baking *chouquettes* has been my favourite activity to fight anxiety. I remain Queen of the Fondant Baulois.
