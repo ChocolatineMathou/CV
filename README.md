@@ -4,7 +4,7 @@
 
 [Recent projects](https://github.com/mathildeferrandcoeurderoy/CV#recent-projects) | [Skills](https://github.com/mathildeferrandcoeurderoy/CV#skills) | [Education](https://github.com/mathildeferrandcoeurderoy/CV#education) | [Experience](https://github.com/mathildeferrandcoeurderoy/CV#experience) | [Interests](https://github.com/mathildeferrandcoeurderoy/CV#interests)
 
-I'm a full stack developer who recently graduated from [Makers](https://makers.tech/) with a background on digital communication, mobility, education and health. I am now looking for challenging work in an environment that will push me to improve my technical skills and grow as a developer with a strong communication-based culture.
+I'm a full stack developer who recently graduated from [Makers](https://makers.tech/) with a background on digital communication for the railway and health industries. I am now looking for challenging work in an environment that will push me to improve my technical skills and grow as a developer with a strong communication-based culture.
 
 ## Recent projects
 
