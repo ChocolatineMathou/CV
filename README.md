@@ -12,7 +12,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | [MakersBnB](https://github.com/ChocolatineMathou/MakersBnB) | 1 week | Our first team project, following XP principles and agile rituals. | Express, Javascript, SQLite, Sequelize | Jasmine, Zombie |
 | [Chitter](https://github.com/ChocolatineMathou/chitter-challenge) | 2 days | A Twitter clone built during a weekend. | Ruby, Sinatra, ActiveRecord, PostgreSQL | RSpec, Capybara |
 | [Acebook](https://github.com/ChocolatineMathou/acebook-PushMePullYou) | 2 weeks | Our second team project focusing on engineering. The full stack rails app is deployed on heroku [here](http://acebook-pushmepullyou.herokuapp.com/). | Ruby, Ruby on Rails, PostgreSQL | RSpec, Capybara |
-| [Injection Dependent](https://github.com/Alastair2D/injection_dependent) | 2 weeks | Our final project. This mobile app aims to help young diabetics dealing with injection sites. | React Native, Redux | Jest, Enzyme |
+| [Injection Dependent](https://github.com/ChocolatineMathou/injection_dependent) | 2 weeks | Our final project. This mobile app aims to help young diabetics dealing with injection sites. | React Native, Redux | Jest, Enzyme |
 
 ## Skills
 
