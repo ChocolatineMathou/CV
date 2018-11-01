@@ -4,7 +4,8 @@
 
 [Recent projects](https://github.com/mathildeferrandcoeurderoy/CV#recent-projects) | [Skills](https://github.com/mathildeferrandcoeurderoy/CV#skills) | [Education](https://github.com/mathildeferrandcoeurderoy/CV#education) | [Experience](https://github.com/mathildeferrandcoeurderoy/CV#experience) | [Interests](https://github.com/mathildeferrandcoeurderoy/CV#interests)
 
-I'm a full stack developer who recently graduated from [Makers](https://makers.tech/) with a background on digital communication for the railway and health industries. I am now looking for challenging work in an environment that will push me to improve my technical skills and grow as a developer with a strong communication-based culture.
+I'm a full stack developer who recently graduated from [Makers](https://makers.tech/) with a background on digital communication for the railway and health industries. I also worked on a sponsorship between SNCF (French Railway Company) and [HackPartners](https://github.com/mathildeferrandcoeurderoy/CV#experience) to bring the hackathon culture to the french railway industry! **HackTrain 5.0: 48 hours, 80 developers, 30 mentors, 20 prototypes, 2 trains**. This year I'm tackling the challenge as a software engineer!   
+I am now looking for challenging work in an environment that will push me to improve my technical skills and grow as a developer with a strong communication-based culture.   
 
 ## Recent projects
 
@@ -18,7 +19,7 @@ I'm a full stack developer who recently graduated from [Makers](https://makers.t
 
 ## Skills
 
-#### Organisation
+#### Project Management
 
 Whilst working on independent projects at Makers (like [Chitter](https://github.com/ChocolatineMathou/chitter-challenge) among other weekend challenges), I set my own direction and managed to deliver what I wanted to achieve.   
 At SNCF (French Railway Company), I had to deal between multiple projects at the same time, from writing contents to managing a sponsorship agreement involving several departments within the company.
@@ -50,10 +51,10 @@ Intensive 3-month bootcamp in London:
 - Testing frameworks: RSpec, Capybara, Jasmine, Zombie, Jest, Enzyme
 - Continuous Integration: Travis CI
 
-#### ECS Paris (September 2015 to June 2017)
+#### ECS Paris (September 2015 to June 2017), Master's degree in digital communication
 
 - Search Engine Optimization, UX Design, Social Media Management, Project Management
-- Provide online/offline communication advices, in team, to French brands
+- Provide online/offline communication advice to French brands
 - Blogging, in French
 
 #### Baruch College - City University of New York (February 2015 to May 2015)
@@ -79,18 +80,18 @@ Intensive 3-month bootcamp in London:
 
 **Ministère de l'Éducation Nationale, Rectorat de Nantes** (April 2018 to June 2018)    
 *English Teacher*  
-I replaced two English teachers until the end of the year. I taught to teenagers in professional and general high schools. This experience gave me more self-confidence to interact with an audience.
+I replaced two English teachers until the end of the year. This experience gave me more self-confidence to interact with an audience.
 
 **SNCF** (September 2015 to July 2017)    
 *Communication and Community Manager*  
-At SNCF (French Railway Company), I worked for the International Department and the Train Operations (Driver Management) Department. It was my very first occasion to work for a worldwide company.   
+At SNCF (French Railway Company), I worked for the International Department and the Train Operations (Driver Management) Department. It was my very first opportunity to work for a worldwide company.   
 
-- Promotion of the international culture within the company by highlighting international projects through an international website and internal social media. Besides writing articles, I analysed data from Google Analytics to understand my audience.
-- Coordination of the sponsorship agreement between the three companies (SNCF, SNCF Mobilités and SNCF Réseau) and HackPartners a consultancy based in London who runs an annual hackathon called HackTrain. At this time, hackathons weren't very well known in the company and I became more interested with innovation and coding.
+- I was in charge of promoting the international culture within the company by writing articles. I also analysed data from Google Analytics to understand my audience.
+- Coordination of the sponsorship agreement between the three companies (SNCF, SNCF Mobilités and SNCF Réseau) and [HackPartners](https://hackpartners.com/events/hacktrain-5/) a consultancy based in London who runs an annual hackathon called HackTrain. At this time, hackathons weren't very well known in the company and I became more interested with innovation and coding.
 
 **Imagence** (May 2015 to August 2015)   
 *Junior Project Manager (internship)*  
-Imagence is a small web agency based in the Greater Paris Area. They mainly work for the health industry. I managed a digital project and worked closely with back-end and front-end developers. To answer to French legislation regarding the promotion of medicinal products on the Internet, we created a new authentication system and sold it to pharmaceutical companies.
+Imagence is a small web agency based in the Greater Paris Area, working for the health industry. I managed a digital project and worked closely with back-end and front-end developers to create a new authentication system.
 
 ## Interests
 
